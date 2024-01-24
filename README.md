@@ -8,7 +8,11 @@ I am always looking forward in meeting different people all around the world and
   - Javascript
   - Typescript
   - React
-  - Node.js /Express
+
+👾 Backend
+  - Node.js & Typescript
+     - Express
+     - Prisma
 
 🎨 UI/UX Tools
   - HTML/CSS
