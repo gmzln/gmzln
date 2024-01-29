@@ -34,20 +34,21 @@ I'm a frontend developer on junior level with a creative Background as a freelan
 <p align="left"> <a href="https://www.linkedin.com/in/gamze-ya/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
+
+### 💻 Programs i worked with in the past
  
-💻 Programs i worked with in the past
   - Adobe CSS (Photoshop, InDesign, Illustrator, Premiere, Lightroom)
   - CAD
       - Vectorworks, ArchiCAD
   - QGIS
   - Prezi
  
-📀 Music and Design Programs i use and learn
+### 📀 Music and Design Programs i use and learn
     - Renoise
     - Ableton live
     - TouchDesigner
   
-💞️ I’m looking forward to collaborate on any creative exchange. I am a big fan of soldering! 🕹️
+### 💞️ I’m looking forward to collaborate on any creative exchange. I am a big fan of soldering! 🕹️
 - 📫 How to reach me:
   - follow me on bluesky or dm here :)
 
