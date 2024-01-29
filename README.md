@@ -1,17 +1,8 @@
- .-. .-.,---.  ,-.    ,-.    .---.          
- | | | || .-'  | |    | |   / .-. )         
- | `-' || `-.  | |    | |   | | |(_)        
- | .-. || .-'  | |    | |   | | | |         
- | | |)||  `--.| `--. | `--.\ `-' /         
- /(  (_)/( __.'|( __.'|( __.')---'          
-(__)   (__)    (_)    (_)   (_)             
-.-.  .-. .---.  ,---.   ,-.     ,'|"\   .-. 
-| |/\| |/ .-. ) | .-.\  | |     | |\ \  |  )
-| /  \ || | |(_)| `-'/  | |     | | \ \ | / 
-|  /\  || | | | |   (   | |     | |  \ \|/  
-|(/  \ |\ `-' / | |\ \  | `--.  /(|`-' /(   
-(_)   \| )---'  |_| \)\ |( __.'(__)`--'(_)  
-        (_)         (__)(_)                 
+ _ _     _         __        __        _ _      _   _ 
+| | |__ | |__ _  __\ \      / /   ___ | | |___ | | | |
+| | '_ \| |__` |/ _ \ \ /\ / /   / _ \| | / _ \| |_| |
+|_| |_) | |  | | (_) \ V  V /   | (_) | | \__  |  _  |
+(_|_.__/|_|  |_|\___/ \_/\_/     \___/|_|_|___/|_| |_|               
 
 Junior Frontend Developer
 -------------------------
@@ -29,19 +20,12 @@ I'm a frontend developer on junior level with a creative Background as a freelan
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.linkedin.com/in/gamze-ya/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-
-
 ### 💻 Programs i worked with in the past
- 
-  - Adobe CSS (Photoshop, InDesign, Illustrator, Premiere, Lightroom)
-  - CAD
-      - Vectorworks, ArchiCAD
-  - QGIS
-  - Prezi
+    - Adobe CSS (Photoshop, InDesign, Illustrator, Premiere, Lightroom)
+    - CAD
+        - Vectorworks, ArchiCAD
+    - QGIS
+    - Prezi
  
 ### 📀 Music and Design Programs i use and learn
     - Renoise
@@ -49,8 +33,9 @@ I'm a frontend developer on junior level with a creative Background as a freelan
     - TouchDesigner
   
 ### 💞️ I’m looking forward to collaborate on any creative exchange. I am a big fan of soldering! 🕹️
-- 📫 How to reach me:
-  - follow me on bluesky or dm here :)
+📫 How to reach me:
+  - [bluesky](https://bsky.app/profile/gerrorrrr.bsky.social)
+  - [linkedIn](https://www.linkedin.com/in/gamze-ya/)
 
 
 
