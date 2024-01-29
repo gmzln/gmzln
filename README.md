@@ -37,20 +37,20 @@ I'm a frontend developer on junior level with a creative Background as a freelan
 ------------------------
 
 ### 💻 Programs i worked with in the past
-    - Adobe CSS (Photoshop, InDesign, Illustrator, Premiere, Lightroom)
-    - CAD
-        - Vectorworks, ArchiCAD
-    - QGIS
-    - Prezi
+    // Adobe CSS (Photoshop, InDesign, Illustrator, Premiere, Lightroom)
+    // CAD: Vectorworks, ArchiCAD
+    // QGIS
+    // Prezi
  
 ### 📀 Music and Design Programs i use and learn
-    - Renoise
-    - Ableton live
-    - TouchDesigner
+    // Renoise
+    // Ableton live
+    // TouchDesigner
 
 ------------------------
 
 ### 💞️ I’m looking forward to collaborate on any creative exchange. I am a big fan of soldering! 🕹️
+
 📫 How to reach me:
   - [bluesky](https://bsky.app/profile/gerrorrrr.bsky.social)
   - [linkedIn](https://www.linkedin.com/in/gamze-ya/)
