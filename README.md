@@ -52,8 +52,8 @@ I'm a frontend developer on junior level with a creative Background as a freelan
 ### 💞️ I’m looking forward to collaborate on any creative exchange. I am a big fan of soldering! 🕹️
 
 📫 How to reach me:
-  - [bluesky](https://bsky.app/profile/gerrorrrr.bsky.social) > for unimportant fun stuff < 
-  - [linkedIn](https://www.linkedin.com/in/gamze-ya/) > for cooperations and job realated stuff < 
+  - [bluesky](https://bsky.app/profile/gerrorrrr.bsky.social) <for unimportant fun stuff>
+  - [linkedIn](https://www.linkedin.com/in/gamze-ya/) <for cooperations and job related stuff>
 
 
 
