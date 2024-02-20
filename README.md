@@ -42,18 +42,18 @@ I'm a frontend developer on junior level with a creative Background as a freelan
     // QGIS
     // Prezi
  
-### 📀 Music and Design Programs i use and learn
-    // Renoise
-    // Ableton live
-    // TouchDesigner
+          📀 Music and Design Programs i use and learn
+              // Renoise
+              // Ableton live
+              // TouchDesigner
 
 ------------------------
 
-### 💞️ I’m looking forward to collaborate on any creative exchange. I am a big fan of soldering! 🕹️
+###  I’m looking forward to collaborate on any creative exchange. I am a big fan of soldering! 🕹️
 
 📫 How to reach me:
-  - [bluesky](https://bsky.app/profile/gerrorrrr.bsky.social) // for unimportant fun stuff
   - [linkedIn](https://www.linkedin.com/in/gamze-ya/) // for cooperations and job related stuff
+  - just text me here on github
 
 
 <!---
