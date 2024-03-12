@@ -22,9 +22,7 @@ Junior Frontend Developer
 
 I'm a frontend developer on junior level with a creative Background as a freelance Design and Music Artist. Intrested in bringing coding, music and design together. I am always looking forward in meeting different people all around the world and getting inspired by the weirdest but greatest ideas.
 
-* 🌍  I'm based in Leipzig, Germany
-* 🚀  I'm currently working on [a Cinema Application](http://github.com/devhausleipzigacademy/camp11-midterm)
-* 🧠  I'm learning Frontend Development @ DevHaus Leipzig
+* 🚀  last project [a Cinema Application](http://github.com/devhausleipzigacademy/camp11-midterm)
 
 ------------------------
 
@@ -36,20 +34,18 @@ I'm a frontend developer on junior level with a creative Background as a freelan
 
 ------------------------
 
-### 💻 Programs i worked with in the past
+### 💻 not coding related but other software i use
     // Adobe CSS (Photoshop, InDesign, Illustrator, Premiere, Lightroom)
     // CAD: Vectorworks, ArchiCAD
     // QGIS
-    // Prezi
  
-          📀 Music and Design Programs i use and learn
+### 📀 Music Software i use
               // Renoise
               // Ableton live
-              // TouchDesigner
 
 ------------------------
 
-###  I’m looking forward to collaborate on any creative exchange. I am a big fan of soldering! 🕹️
+###  I’m looking forward to collaborate on any creative exchange. Sidenote : I like soldering 🕹️
 
 📫 How to reach me:
   - [linkedIn](https://www.linkedin.com/in/gamze-ya/) // for cooperations and job related stuff
