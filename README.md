@@ -14,13 +14,13 @@
      |  | ,'    |   :    ||  ,   /|  ,   /  `----'            \   \  |--"   `----'   ---'    |  ,   / |   :    :||    |`.  
      `--''       \   \  /  ---`-'  ---`-'                      \   \ |                        ---`-'   \   \  /  `-- -`, ; 
                   `----'                                        '---"                                   `----'     '---`"  
+
                                                                                                                            
-             
+
+<h2 align="left">Hello - Hallo - Merhaba - 안녕하세요 :)</h2>
 
 Junior Frontend Developer
 -------------------------
-
-<h2 align="left">Hello - Hallo - Merhaba - 안녕하세요 :)</h2>
 
 I'm a frontend developer on junior level with a creative Background as a freelance Design and Music Artist. Intrested in bringing coding, music and design together. I am always looking forward in meeting different people all around the world and getting inspired by the weirdest but greatest ideas.
 
@@ -103,7 +103,7 @@ I'm a frontend developer on junior level with a creative Background as a freelan
 
 -----------------------
  
-### 📀 Music Software i use
+<h2>Music Software i use</h2>
               // Renoise
               // Ableton live
 
@@ -112,7 +112,7 @@ I'm a frontend developer on junior level with a creative Background as a freelan
 <h3 align="left">I’m looking forward to collaborate on any creative exchange. Sidenote : I like soldering 🕹️</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/gamze-ya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gamze-ya/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gamze-ya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gamze-ya/" height="30" width="40" /> Linked In</a>
 </p>
 
 <!---
