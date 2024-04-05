@@ -28,7 +28,7 @@ I'm a frontend developer on junior level with a creative Background as a freelan
 
 ------------------------
 
-###
+<h2 align="left">My Stack</h2>
 
 <br clear="both">
 
