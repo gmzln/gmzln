@@ -17,7 +17,7 @@
 
                                                                                                                            
 
-<h2 align="left">Hello - Hallo - Merhaba - 안녕하세요 :)</h2>
+<h2 align="left">Hello - Hallo - Merhaba :)</h2>
 
 Junior Frontend Developer
 -------------------------
