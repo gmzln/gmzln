@@ -102,18 +102,8 @@ I'm a frontend developer on junior level with a creative Background as a freelan
 ###
 
 -----------------------
- 
-<h2>Music Software i use</h2>
-              // Renoise
-              // Ableton live
-
-------------------------
 
 <h3 align="left">I’m looking forward to collaborate on any creative exchange. Sidenote : I like soldering 🕹️</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/gamze-ya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gamze-ya/" height="30" width="40" /> Linked In</a>
-</p>
 
 <!---
 gmzln/gmzln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
