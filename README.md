@@ -17,9 +17,9 @@
 
                                                                                                                            
 
-<h2 align="left">Hello - Hallo - Merhaba :)</h2>
+<h2 align="left">Welcome Stranger</h2>
 
-Junior Frontend Developer
+About
 -------------------------
 
 I'm a frontend developer on junior level with a creative Background as a freelance Design and Music Artist. Intrested in bringing coding, music and design together. I am always looking forward in meeting different people all around the world and getting inspired by the weirdest but greatest ideas.
