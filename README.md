@@ -20,7 +20,6 @@
 <h2 align="left">Welcome Stranger</h2>
 
 About
--------------------------
 
 I'm a frontend developer on junior level with a creative Background as a freelance Design and Music Artist. Intrested in bringing coding, music and design together. I am always looking forward in meeting different people all around the world and getting inspired by the weirdest but greatest ideas.
 
@@ -104,6 +103,8 @@ I'm a frontend developer on junior level with a creative Background as a freelan
 -----------------------
 
 <h3 align="left">I’m looking forward to collaborate on any creative exchange. Sidenote : I like soldering 🕹️</h3>
+
+<span>If you read this and you want to build an online loop machine for sounds with weird filters: hmu.</span>
 
 <!---
 gmzln/gmzln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
