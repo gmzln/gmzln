@@ -102,10 +102,6 @@ I'm a frontend developer on junior level with a creative Background as a freelan
 
 -----------------------
 
-<h3 align="left">I’m looking forward to collaborate on any creative exchange. Sidenote : I like soldering 🕹️</h3>
-
-<span>If you read this and you want to build an online loop machine for sounds with weird filters: hmu.</span>
-
 <!---
 gmzln/gmzln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
