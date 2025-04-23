@@ -36,28 +36,28 @@ I'm a frontend developer on junior level with a creative Background as a freelan
           <h3>Frontend</h3>
           <p align="center">
                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,php,tailwind,prisma,vite," />
+                    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,php,tailwind,prisma,vite," width="15"/>
                </a>
      </div>
      <div>
           <h3>UI/UX</h3>
           <p align="center">
                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=figma,ui,ps,pr" />
+                    <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr" width="15"/>
                </a>
      </div>
       <div>
           <h3>Backend</h3>
           <p align="center">
                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=express,postgres,supabase,nodejs,go" />
+                    <img src="https://skillicons.dev/icons?i=express,postgres,supabase,nodejs,go" width="15"/>
                </a>
      </div>
      <div>
           <h3>Control tools</h3>
           <p align="center">
                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=git,docker,vim,npm,yarn,obsidian,bun,bitbucket,discord,eclipse,jenkins,vscode,cursor,apple," />
+                    <img src="https://skillicons.dev/icons?i=git,docker,vim,npm,yarn,obsidian,bun,bitbucket,discord,eclipse,jenkins,vscode,cursor,apple," width="15"/>
                </a>
           </p>
      </div>
