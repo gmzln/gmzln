@@ -18,11 +18,15 @@
                                                                                                                            
 <h2 align="left">Welcome Stranger</h2>
 
-About
+<span>About</span>
 
-I'm a frontend developer on junior level with a creative Background as a freelance Design and Music Artist. Intrested in bringing coding, music and design together. I am always looking forward in meeting different people all around the world and getting inspired by the weirdest but greatest ideas.
+I am currently working as a frontend developer and persuing my education as a software developer. I have been always interested in many things like art, design, music and technology. Therefore I have a creative Background as a freelance Design and Music Artist. Always Intrested in bringing coding, music and design together. Looking forward in meeting different people all around the world and getting inspired by the weirdest but greatest ideas. My absolute passion is finding new hyperfixation hobbies and korean food. : p
 
-* 🚀 [a Cinema Application](http://github.com/devhausleipzigacademy/camp11-midterm)
+<span>some projects</span>
+
+* 🚀 [cinema Application](http://github.com/devhausleipzigacademy/camp11-midterm) build with React/Ts/Nodejs/Express/Json/npm
+* 🚀 [investment Application](https://github.com/gmzln/investmentAppReact) build with React/Js/vite/npm
+* 🚀 [rpg Game](https://github.com/gmzln/python_rpg_game) build with Python
 
 ------------------------
 
