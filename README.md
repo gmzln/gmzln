@@ -56,7 +56,7 @@ I'm a frontend developer on junior level with a creative Background as a freelan
           <h3>Control tools</h3>
           <p align="center">
                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=git,docker,vim,npm,yarn,obsidian,bun,bitbucket,discord,eclipse,jenkins,vscode,cursor,apple," />
+                    <img src="https://skillicons.dev/icons?i=git,docker,vim,npm,yarn,obsidian,bun,bitbucket,discord,eclipse,jenkins,vscode,apple," />
                </a>
           </p>
      </div>
