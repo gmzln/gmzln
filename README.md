@@ -16,7 +16,6 @@
                   `----'                                        '---"                                   `----'     '---`"  
 
                                                                                                                            
-
 <h2 align="left">Welcome Stranger</h2>
 
 About
@@ -36,34 +35,32 @@ I'm a frontend developer on junior level with a creative Background as a freelan
           <h3>Frontend</h3>
           <p align="center">
                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,php,tailwind,prisma,vite," width="15"/>
+                    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,php,tailwind,prisma,vite," width="50"/>
                </a>
      </div>
      <div>
           <h3>UI/UX</h3>
           <p align="center">
                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr" width="15"/>
+                    <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr" width="50" />
                </a>
      </div>
       <div>
           <h3>Backend</h3>
           <p align="center">
                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=express,postgres,supabase,nodejs,go" width="15"/>
+                    <img src="https://skillicons.dev/icons?i=express,postgres,supabase,nodejs,go" width="50"/>
                </a>
      </div>
      <div>
           <h3>Control tools</h3>
           <p align="center">
                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=git,docker,vim,npm,yarn,obsidian,bun,bitbucket,discord,eclipse,jenkins,vscode,cursor,apple," width="15"/>
+                    <img src="https://skillicons.dev/icons?i=git,docker,vim,npm,yarn,obsidian,bun,bitbucket,discord,eclipse,jenkins,vscode,cursor,apple," width="50"/>
                </a>
           </p>
      </div>
 </div>
-
-###
 
 -----------------------
 
